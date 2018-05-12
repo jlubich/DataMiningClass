@@ -1,8 +1,22 @@
 Hello World!
 
+<<<<<<< HEAD
 
 Adding something from JEremy
+=======
 Added by thejas1<<<<<<< HEAD
 Added by thejas1
+=======
+Jonathan
 >>>>>>> 2cecf6abf05d8005a6938b0fc1e678010b70d31c
 >>>>>>> 3f0466da6a612728be05b46857e795599e0919e6
+
+
+Section 1
+Section 2
+Section 3
+Section 4
+	--Adding new stuff
+Section 5
+
+
