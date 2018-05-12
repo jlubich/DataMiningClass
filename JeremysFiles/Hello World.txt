@@ -1,6 +1,6 @@
 Hello World!
 
-Added by thejas1<<<<<<< HEAD
+<<<<<<< HEAD
 Added by thejas1
 =======
 Jonathan
