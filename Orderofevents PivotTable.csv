@@ -1,0 +1,115 @@
+gameId,inningNumber,inningHalf,inningHalfEventSequenceNumber,hitterId,atBatEventSequenceNumber,outcomeDescription
+056efbfa-cab6-4ff3-b30f-4b8912d73c86,1,TOP,1,a91b5de2-7809-4c9c-b67a-409835c5f17e,1,Ball
+,,,,,2,Ball
+,,,,,3,Strike Looking
+,,,,,4,Ground Out
+,,,2,8e42fd09-b9d0-4566-b960-e107f580de46,1,Ball
+,,,,,2,Strike Looking
+,,,,,3,Single
+,,,3,13987736-aaaa-4d5b-a126-5158e2202fe2,1,Strike Looking
+,,,,,2,Strike Swinging
+,,,,,3,Ball
+,,,,,4,Ball
+,,,,,5,Ball
+,,,,,6,Single
+,,,4,75cb4b6c-a087-4b77-90e3-7473284fa8ad,1,Foul Ball
+,,,,,2,Ball
+,,,,,3,Foul Ball
+,,,,,4,Single
+,,,5,e1633ff9-8c46-4698-9bea-3eecd478fa94,1,Double
+,,,6,f695700e-36bb-46be-aad6-92c68f73e61e,1,Ball
+,,,,,2,Ball
+,,,,,3,Foul Ball
+,,,,,4,Sacrifice Fly
+,,,7,4eba23e5-b274-4a2b-a3c7-fe2009a90619,1,Reached on error
+,,,8,408b2324-83a9-4366-a3b4-9883f2c46260,1,Ground Out
+,,BOT,,,,
+,2,,,,,
+,3,,,,,
+,4,,,,,
+,5,,,,,
+,6,,,,,
+,7,,,,,
+,8,,,,,
+,9,,,,,
+08981bd8-d1d7-48e1-8668-9098b8f7fe90,,,,,,
+0c2292d1-7398-48be-bf8e-b41dad5e1a43,,,,,,
+10c6ebd7-7fa9-4f3b-9abd-2c779880ac6f,,,,,,
+12738dc8-3f7f-4cde-a26c-2e80f8370ac0,,,,,,
+1550c92c-f7ed-4127-95c1-fb9a3e9de705,,,,,,
+15b3091c-d201-4ead-89c9-489875e5db61,,,,,,
+1628a432-791d-494c-b0fb-c975bb809f88,,,,,,
+17cee984-3bed-43e8-a495-504397408c9b,,,,,,
+1f32b347-cbcb-4c31-a145-0e685306d168,,,,,,
+241cf81a-4654-4e62-af87-0f756eaea76d,,,,,,
+24740ced-a9dc-46fb-9992-115eb41ac63b,,,,,,
+25b94b9c-e50e-4781-9a1e-0c913ece90d6,,,,,,
+2a1fd211-3bd8-4dff-8f89-c671ad4972a0,,,,,,
+303703bb-b55f-476d-8faf-bf582169fb1d,,,,,,
+34444c94-03ec-4d12-96af-68b8f399a22f,,,,,,
+387630a3-a894-4327-baa1-b24ec1a654d9,,,,,,
+417fbb21-cfc9-4126-9ebb-adedbaa85178,,,,,,
+4439c3c5-ecdc-4267-8367-0cfe5ad5b133,,,,,,
+46463c50-0f5c-4dca-a661-dd194464e791,,,,,,
+47369737-f2fa-461a-a283-69c7613f298a,,,,,,
+4a8d5280-b40c-4b8a-9822-8d9843e0ff5d,,,,,,
+52b3c1d1-7ec7-4293-9408-238e295ab415,,,,,,
+53fd2caa-a3ed-43a7-9fa2-1e88281462ea,,,,,,
+59134e6d-9d13-49aa-978e-c3c2300eb90f,,,,,,
+596c2acf-9c7c-40eb-be23-5ef069b07cd8,,,,,,
+5d084e13-94fd-4995-b95a-4801ea3ed556,,,,,,
+6054b158-4efa-4fa3-9f50-d03b595ed533,,,,,,
+63f14670-c28e-432b-84ee-1a2c6ac29527,,,,,,
+645e6a08-afd6-4677-a5c9-01ef446b0cf3,,,,,,
+668e3fb7-ddf9-4fe9-b2a4-a7cf087b55a2,,,,,,
+66fad23d-6e89-4f99-be29-d49b6e94f95d,,,,,,
+6a83e76c-dc0d-4924-9d3d-a2e7e0ab5b52,,,,,,
+6d111b57-fa0b-4f24-82df-ff33a26f0252,,,,,,
+6d1670c0-d3ca-4ec2-827e-63070c2aa393,,,,,,
+6ff20490-9925-456d-aa23-be5d5994c924,,,,,,
+71ab82a4-6e07-430a-b695-1af3bc42ea61,,,,,,
+7360cedc-2400-4711-af89-2beb34e385b6,,,,,,
+74172bf1-d2a2-4de0-b0de-21ee698940fa,,,,,,
+7440eba5-96d3-4b8f-8ec8-13213e112485,,,,,,
+74b58f91-ba5d-4eb2-890b-503065ee6fa2,,,,,,
+76ea8662-c7e6-4c38-8f2a-efe373e428ce,,,,,,
+7743a6e0-6f50-4615-be67-86e856d96e07,,,,,,
+78115373-f0b2-4d6a-a87c-0537dbbfa597,,,,,,
+7d5241c6-a3d8-4514-89bf-183735a1028c,,,,,,
+89e514d5-fbf5-4b9d-bdac-6ca45bfd18dd,,,,,,
+8b90165d-4f74-4160-8ff1-8db3abf88a2a,,,,,,
+8c97b3b7-f1c9-445f-8cc1-0ed271577ab9,,,,,,
+8dab9e80-8734-4add-a10e-468ce0768f47,,,,,,
+8f751889-3ff8-4174-8d0c-8f02222a684d,,,,,,
+8fbec734-a15a-42ab-8d51-60790de7750b,,,,,,
+92e5248b-d3b0-4593-9beb-f576e5eceae5,,,,,,
+9580bffe-22e1-4975-978b-1b13e7505193,,,,,,
+9652fe17-af1f-42b2-83d8-b0e6ffdb591a,,,,,,
+9e4ce345-e684-465f-80fb-31cbae5b549b,,,,,,
+a87070ff-1084-43ca-a7ba-69278f93ecba,,,,,,
+a97e9539-bbbd-4e03-bf15-f25ea2c1d923,,,,,,
+b1e9a61f-925c-492d-a744-6c01ff805dcc,,,,,,
+b2b8feec-5153-400b-8e33-47122a305dc3,,,,,,
+b32eaf34-1849-49a4-88b7-ce3944a159ad,,,,,,
+b49c2082-1063-4071-98f2-d9ad90f30a9e,,,,,,
+b70eeaad-2ad4-4565-8f98-cdc862812b7a,,,,,,
+b884c196-8e4d-4f89-9614-eb55e5be0c76,,,,,,
+bf4e80d1-3125-44fa-8a89-de93d039d465,,,,,,
+c17285a2-a46d-4d36-84ab-07589de510ea,,,,,,
+c32d0ef1-d3ec-4c98-8398-0152c2cb286e,,,,,,
+c43c8dbb-04ca-4e78-aca3-a61423127229,,,,,,
+c9703b20-d949-4d86-bc7e-f63d49a2aff4,,,,,,
+d00dfa73-3502-44de-bfde-f61688e760e7,,,,,,
+d1a110c2-f6c8-4029-bcd8-2f8a01e1561c,,,,,,
+d80c8154-682e-48ba-863b-b12da3b1575e,,,,,,
+d80ffb65-57a4-42c9-ae1c-2c51d0650336,,,,,,
+d977367c-cf0c-4687-95a0-eb4542efcb01,,,,,,
+dc0c9218-505c-4725-8c0c-40b72cca0956,,,,,,
+e14b6493-9e7f-404f-840a-8a680cc364bf,,,,,,
+e599c525-ac42-4b54-928d-7ee5fbe67dd9,,,,,,
+e64b4321-a30d-4875-8fb3-f008adca6080,,,,,,
+e8af534c-36ed-4ff9-8511-780825fdd041,,,,,,
+ea14cb0a-a952-4f5e-a383-279ad9693818,,,,,,
+ea6b350d-3c1d-4737-878d-4465f66999f6,,,,,,
+fe9b461a-1e52-4223-97f6-051f50bcc4ba,,,,,,
+Grand Total,,,,,,
